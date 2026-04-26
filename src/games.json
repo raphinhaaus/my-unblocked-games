@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=400&h=250&fit=crop",
+    "url": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "Block-stacking puzzle game that needs no introduction.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=400&h=250&fit=crop",
+    "url": "https://tetris.com/play-tetris",
+    "category": "Classic"
+  },
+  {
+    "id": "snake",
+    "title": "Classic Snake",
+    "description": "The timeless arcade classic. Eat, grow, survive.",
+    "thumbnail": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=250&fit=crop",
+    "url": "https://www.google.com/search?q=play+snake&igu=1",
+    "category": "Arcade"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "description": "Clear the board without hitting any mines.",
+    "thumbnail": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=400&h=250&fit=crop",
+    "url": "https://minesweeper.online/",
+    "category": "Strategy"
+  },
+  {
+    "id": "dino",
+    "title": "Chrome Dino",
+    "description": "The jump-and-duck game from the offline browser.",
+    "thumbnail": "https://images.unsplash.com/photo-1616440893393-78566f125712?w=400&h=250&fit=crop",
+    "url": "https://chromedino.com/",
+    "category": "Arcade"
+  }
+]
